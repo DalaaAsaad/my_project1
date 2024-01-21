@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349480075479",
+    "project_id": "dalaanotification",
+    "storage_bucket": "dalaanotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349480075479:android:d617bf39ff8ca7be5df092",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALhonk1a0OQh4rL-WVXOi-Z1BhxWM8Uzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
